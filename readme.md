@@ -4,4 +4,4 @@ Sample test result -
 
 
 
-Cypress Resylt (https://github.com/kapalakiran/cypress/assets/36418742/a676ea06-8f77-417f-9fd5-997f072b9666)
+Cypress Result (https://github.com/kapalakiran/cypress/assets/36418742/a676ea06-8f77-417f-9fd5-997f072b9666)
