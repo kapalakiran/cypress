@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0265d5f4-42d7-4dae-aee9-db914d79dc2b" name="Changes" comment="&quot;added 1st testcase&quot;" />
+    <list default="true" id="0265d5f4-42d7-4dae-aee9-db914d79dc2b" name="Changes" comment="&quot;added 1st testcase&quot;">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -45,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698061877596</updated>
-      <workItem from="1698061878712" duration="2932000" />
+      <workItem from="1698061878712" duration="3215000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;added 1st testcase&quot;">
       <option name="closed" value="true" />
