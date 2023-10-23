@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0265d5f4-42d7-4dae-aee9-db914d79dc2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/demo/firsttest.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/support/commands.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/support/e2e.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypressproj01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="0265d5f4-42d7-4dae-aee9-db914d79dc2b" name="Changes" comment="&quot;added 1st testcase&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,12 +45,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698061877596</updated>
-      <workItem from="1698061878712" duration="2582000" />
+      <workItem from="1698061878712" duration="2932000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;added 1st testcase&quot;">
+      <option name="closed" value="true" />
+      <created>1698077300908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698077300908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;added 1st testcase&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added 1st testcase&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
